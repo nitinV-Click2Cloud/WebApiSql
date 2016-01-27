@@ -1,0 +1,14 @@
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\ProductsApp.dll.config
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\ProductsApp.dll
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\ProductsApp.pdb
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\Newtonsoft.Json.dll
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Net.Http.Formatting.dll
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.dll
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.WebHost.dll
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\Newtonsoft.Json.xml
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Net.Http.Formatting.xml
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.xml
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.WebHost.xml
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Debug\ProductsApp.dll
+D:\Nitin Vaswani\OpenShift\Practice\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Debug\ProductsApp.pdb
